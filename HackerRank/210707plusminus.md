@@ -10,7 +10,6 @@
 
 ```java
 public static void plusMinus(List<Integer> arr) {
-    // Write your code here
     float positive = 0;
     float negative = 0;
     float zero = 0;
