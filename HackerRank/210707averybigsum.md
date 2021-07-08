@@ -2,11 +2,11 @@
 
 - <https://www.hackerrank.com/challenges/a-very-big-sum/problem>
 
-## My Solution
+## Purpose
 
 - returns sum of all numbers in the list
 
-## Solution
+## My Solution
 
 ```java
 public static long aVeryBigSum(List<Long> ar) {

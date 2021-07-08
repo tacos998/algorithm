@@ -2,11 +2,11 @@
 
 - <https://www.hackerrank.com/challenges/staircase/problem>
 
-## My Solution
+## Purpose
 
 - returns a staircase of size n
 
-## Solution
+## My Solution
 
 ```java
 public static void staircase(int n) {

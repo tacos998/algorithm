@@ -2,11 +2,11 @@
 
 - <https://www.hackerrank.com/challenges/plus-minus/problem>
 
-## My Solution
+## Purpose
 
 - returns proportion of positives, negatives, and zeroes
 
-## Solution
+## My Solution
 
 ```java
 public static void plusMinus(List<Integer> arr) {
