@@ -1,4 +1,4 @@
-# Birthday Cake Candles
+# Time Conversion
 
 - <https://www.hackerrank.com/challenges/time-conversion/problem>
 
